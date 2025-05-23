@@ -1,0 +1,6 @@
+user
+news
+review
+account
+users
+login
